@@ -1,4 +1,4 @@
-# Unity generated folders
+# Unity build/system folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,21 +6,26 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-[Uu]serSettings/
+[Ss]06-*DoNotShip*/
 .utmp/
+
+# IDE & Tools
 .vs/
+*.sln
+*.csproj
 .gradle/
 .idea/
+UserSettings/
 
-# Build artifacts
+# Android & IL2CPP
 *.apk
 *.aab
 *.unitypackage
 
-# Crash and cache
+# Debug & Cache
 *.vsidx
 sysinfo.txt
 
-# OS
+# OS Generated
 .DS_Store
 Thumbs.db
