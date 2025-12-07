@@ -1,0 +1,21 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Visual Studio cache
+.vs/
+*.csproj
+*.sln
+
+# Unity crash reports
+sysinfo.txt
+*.stacktrace
+
+# OS generated
+.DS_Store
+Thumbs.db
