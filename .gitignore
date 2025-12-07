@@ -1,3 +1,4 @@
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,16 +7,20 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 [Uu]serSettings/
-
-# Visual Studio cache
+.utmp/
 .vs/
-*.csproj
-*.sln
+.gradle/
+.idea/
 
-# Unity crash reports
+# Build artifacts
+*.apk
+*.aab
+*.unitypackage
+
+# Crash and cache
+*.vsidx
 sysinfo.txt
-*.stacktrace
 
-# OS generated
+# OS
 .DS_Store
 Thumbs.db
