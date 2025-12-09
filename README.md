@@ -8,6 +8,7 @@
 ---
 
 ##  System Components
+<img width="6000" height="3375" alt="dlalwl3" src="https://github.com/user-attachments/assets/8a90ee51-bd5a-4c22-853b-7960b5870af4" />
 
 ### 📱 Unity Mobile Client
 
@@ -120,3 +121,4 @@ navigation-app/
 * 건물 층간 이동 지원 (엘리베이터 / 계단)
 * 실내 군집 탐색 Crowd-aware 경로 계획
 * BLE·UWB·Wi-Fi Fingerprinting 융합
+
